@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erino\\source\\repos\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin.csproj": {}
+    "C:\\Users\\erino\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erino\\source\\repos\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin.csproj": {
+    "C:\\Users\\erino\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erino\\source\\repos\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin.csproj",
+        "projectUniqueName": "C:\\Users\\erino\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin.csproj",
         "projectName": "SP2023-Assignment2-esolaughlin",
-        "projectPath": "C:\\Users\\erino\\source\\repos\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin.csproj",
+        "projectPath": "C:\\Users\\erino\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin.csproj",
         "packagesPath": "C:\\Users\\erino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erino\\source\\repos\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\obj\\",
+        "outputPath": "C:\\Users\\erino\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erino\\AppData\\Roaming\\NuGet\\NuGet.Config",
