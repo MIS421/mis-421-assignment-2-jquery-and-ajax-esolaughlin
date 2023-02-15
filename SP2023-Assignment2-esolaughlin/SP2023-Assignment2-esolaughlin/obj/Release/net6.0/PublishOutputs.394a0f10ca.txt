@@ -1,0 +1,7 @@
+C:\Users\erino\source\repos\SP2023-Assignment2-esolaughlin\SP2023-Assignment2-esolaughlin\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-esolaughlin.exe
+C:\Users\erino\source\repos\SP2023-Assignment2-esolaughlin\SP2023-Assignment2-esolaughlin\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\erino\source\repos\SP2023-Assignment2-esolaughlin\SP2023-Assignment2-esolaughlin\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\erino\source\repos\SP2023-Assignment2-esolaughlin\SP2023-Assignment2-esolaughlin\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-esolaughlin.dll
+C:\Users\erino\source\repos\SP2023-Assignment2-esolaughlin\SP2023-Assignment2-esolaughlin\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-esolaughlin.deps.json
+C:\Users\erino\source\repos\SP2023-Assignment2-esolaughlin\SP2023-Assignment2-esolaughlin\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-esolaughlin.runtimeconfig.json
+C:\Users\erino\source\repos\SP2023-Assignment2-esolaughlin\SP2023-Assignment2-esolaughlin\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment2-esolaughlin.pdb

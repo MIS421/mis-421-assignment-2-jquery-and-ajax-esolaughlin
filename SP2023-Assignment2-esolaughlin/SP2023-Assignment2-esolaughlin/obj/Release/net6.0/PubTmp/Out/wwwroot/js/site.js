@@ -1,4 +1,4 @@
-var len;
+﻿var len;
 var results = '';
 
 function apiSearch() {
