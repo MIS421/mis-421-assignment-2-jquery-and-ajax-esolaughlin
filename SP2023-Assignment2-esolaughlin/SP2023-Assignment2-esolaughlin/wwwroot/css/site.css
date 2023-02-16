@@ -36,20 +36,25 @@ body {
 
 h1 {
     color: blue;
-    background-color: white;
     text-align: center;
     font-family: monospace;
-    font-size: 40px;
+    font-size: 80px;
     font-weight: bold;
     font-variant: small-caps;
-    text-shadow: -3px 2px black;
+    text-shadow: -4px 5px black;
     }
 
 #titleText {
-    color: blue;
+    color: yellow;
+    font-size: 80px;
 }
 
 
+#time {
+    color: yellow;
+    font-family: monospace;
+    font-size: 50px;
+}
 .buttons {
     
 }

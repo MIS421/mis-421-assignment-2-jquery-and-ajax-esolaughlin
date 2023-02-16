@@ -28,24 +28,33 @@ body {
 }
 
 .center {
-    margin: auto;
-    width: 50%;
-    padding: 70px 0;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin-top: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 h1 {
-    color: dodgerblue;
-    background-color: white;
+    color: blue;
     text-align: center;
     font-family: monospace;
-    font-size: 40px;
+    font-size: 80px;
     font-weight: bold;
     font-variant: small-caps;
-    text-shadow: -3px 2px black;
+    text-shadow: -4px 5px black;
     }
 
+#titleText {
+    color: yellow;
+    font-size: 80px;
+}
+
+
+#time {
+    color: yellow;
+    font-family: monospace;
+    font-size: 50px;
+}
+.buttons {
+    
+}
