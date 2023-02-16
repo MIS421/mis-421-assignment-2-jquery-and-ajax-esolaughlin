@@ -28,18 +28,14 @@ body {
 }
 
 .center {
-    margin: auto;
-    width: 50%;
-    padding: 70px 0;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    margin-top: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 h1 {
-    color: dodgerblue;
+    color: blue;
     background-color: white;
     text-align: center;
     font-family: monospace;
@@ -49,3 +45,11 @@ h1 {
     text-shadow: -3px 2px black;
     }
 
+#titleText {
+    color: blue;
+}
+
+
+.buttons {
+    
+}
