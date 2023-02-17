@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H/mn53nGzhDidkge0CDyFi/rzNgJQ/p5QQbN32rAFGI=",
+  "Hash": "wwEss6P1NBLvqa5lTj8hsGixhHU8OyRBHAUuGTznz/c=",
   "Source": "SP2023-Assignment2-esolaughlin",
   "BasePath": "_content/SP2023-Assignment2-esolaughlin",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\erino\\Source\\Repos\\mis-421-assignment-2-jquery-and-ajax-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\wwwroot\\frankie-lopez-O_zyQTY1Qs0-unsplash.jpg",
+      "SourceId": "SP2023-Assignment2-esolaughlin",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\erino\\Source\\Repos\\mis-421-assignment-2-jquery-and-ajax-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\wwwroot\\",
+      "BasePath": "_content/SP2023-Assignment2-esolaughlin",
+      "RelativePath": "frankie-lopez-O_zyQTY1Qs0-unsplash.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\frankie-lopez-O_zyQTY1Qs0-unsplash.jpg"
     },
     {
       "Identity": "C:\\Users\\erino\\Source\\Repos\\mis-421-assignment-2-jquery-and-ajax-esolaughlin\\SP2023-Assignment2-esolaughlin\\SP2023-Assignment2-esolaughlin\\wwwroot\\index.html",

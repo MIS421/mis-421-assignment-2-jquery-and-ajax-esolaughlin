@@ -7,4 +7,8 @@
     <RootNamespace>SP2023_Assignment2_esolaughlin</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\frankie-lopez-O_zyQTY1Qs0-unsplash.jpg" />
+  </ItemGroup>
+
 </Project>

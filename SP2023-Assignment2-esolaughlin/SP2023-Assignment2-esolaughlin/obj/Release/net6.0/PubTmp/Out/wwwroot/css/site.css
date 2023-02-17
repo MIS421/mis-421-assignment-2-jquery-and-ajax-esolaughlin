@@ -21,6 +21,7 @@ body {
 
 #searchResults {
     visibility: hidden;
+    color: dodgerblue;
 }
 
 #time {
@@ -51,7 +52,7 @@ h1 {
 
 
 #time {
-    color: yellow;
+    color: blue;
     font-family: monospace;
     font-size: 50px;
 }
